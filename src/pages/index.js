@@ -81,14 +81,14 @@ const badgeStyle = {
 // data
 const links = [
   {
-    text: "Tutorial",
+    text: "1) Tutorial",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
     color: "#E95800",
   },
   {
-    text: "How to Guides",
+    text: "2222 How to Guides",
     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
       "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
